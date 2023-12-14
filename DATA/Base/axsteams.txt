@@ -1,27 +1,27 @@
 170																																			
 Osttruppen	Eastern Troops	Ost Grenadiere	0	2	7	2	2	1	264	0	1	42	44	41	41	41	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	129	0
-Vet Grenadiere	Veteran Infantry	Vet Grenadiere	1	1	7	4	3	0	121	0	1	48	22	5	59	5	10	77	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
-Panzerschreck	AT Infantry	Rktn Pz Buhse	2	1	5	4	3	0	126	0	4	5	9	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	166	0
-Panzer IVH	Medium Tank	PzKfw IVH	3	1	34	4	4	3	166	0	12	26	46	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	1	-1	0
-Sturmgeschutz	Assault Gun	Sturmgeschutz 40G	4	5	31	4	4	1	163	0	12	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	3	-1	0
-FlaK 36 8.8cm	Heavy AA Gun	8.8cm FlaK 36	5	1	18	4	4	0	139	0	16	21	21	21	21	21	21	21	-1	-1	-1	3	2	2	2	2	2	2	-1	-1	-1	7	4	129	0
+Vet Grenadiere	Veteran Infantry	Vet Grenadiere	1	1	7	4	4	0	121	0	1	48	22	5	59	5	10	77	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
+Panzerschreck	AT Infantry	Rktn Pz Buchse	2	1	5	4	3	0	126	0	4	5	9	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	166	0
+Panzer IVH	Medium Tank	PzKfw IVH	3	1	34	4	3	3	166	0	12	26	46	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	1	-1	0
+Sturmgeschutz	Assault Gun	Sturmgeschutz 40G	4	5	31	4	3	1	163	0	12	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	3	-1	0
+FlaK 36 8.8cm	Heavy AA Gun	8.8cm FlaK 36	5	1	18	4	3	0	139	0	16	21	21	21	21	21	21	21	-1	-1	-1	3	2	2	2	2	2	2	-1	-1	-1	7	4	129	0
 Granatwerfer 8cm 	Medium Mortar	8cm Granatwerfer	6	1	12	4	3	0	129	0	7	13	5	5	5	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	129	0
-Marder III 7.5cm	Tank Destroyer	Panzerjager 38t	7	1	31	4	4	3	164	0	11	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	20	-1	0
-Inf Geschutz 7.5cm	Infantry Gun	7.5cm Infanterie Geschutz	8	1	14	4	4	0	144	0	14	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	23	129	0
-Panther VA 	Medium Tank	PzKfw VA	9	1	34	4	4	3	279	0	12	46	46	26	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	74	-1	0
-Jagdpanzer IV	Tank Destroyer	Panzerjager IV	10	1	31	4	4	3	165	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	22	-1	0
-PaK 40 7.5cm	Medium AT Gun	7.5cm PaK 40	11	1	20	4	4	0	142	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	81	129	0
-PaK 38 5cm	Medium AT Gun	5cm PaK 38	12	1	20	4	4	0	141	0	15	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	86	129	0
+Marder III 7.5cm	Tank Destroyer	Panzerjager 38t	7	1	31	4	3	3	164	0	11	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	20	-1	0
+Inf Geschutz 7.5cm	Infantry Gun	7.5cm Infanterie Geschutz	8	1	14	4	3	0	144	0	14	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	23	129	0
+Panther VA 	Medium Tank	PzKfw VA	9	1	34	4	3	3	279	0	12	46	46	26	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	74	-1	0
+Jagdpanzer IV	Tank Destroyer	Panzerjager IV	10	1	31	4	3	3	165	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	22	-1	0
+PaK 40 7.5cm	Medium AT Gun	7.5cm PaK 40	11	1	20	4	3	0	142	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	81	129	0
+PaK 38 5cm	Medium AT Gun	5cm PaK 38	12	1	20	4	3	0	141	0	15	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	86	129	0
 Befehlspz 35-S	Tank Leader	Befehlspz 35-S	13	1	2	4	4	3	284	0	12	26	26	26	-1	-1	-1	-1	-1	-1	-1	5	2	2	-1	-1	-1	-1	-1	-1	-1	3	10	-1	0
-Sturmhaubitze 42	Assault Gun	Sturmhaubitze 42	14	5	27	4	4	1	162	0	12	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	11	-1	0
+Sturmhaubitze 42	Assault Gun	Sturmhaubitze 42	14	5	27	4	3	1	162	0	12	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	11	-1	0
 SS PzGrentrupp	Infantry Team	SS PzGrentrupp	15	1	7	4	3	2	201	0	1	48	22	5	25	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	135	0
 SdKfz 232 2cm	Panzerspahwagen	SdKfz 232 (2cm PaK)	16	1	24	4	3	3	156	0	9	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	7	-1	0
-SS Tiger I	Heavy Tank	SS PzKpfw VI E	17	5	35	4	4	3	192	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	0	-1	0
+SS Tiger I	Heavy Tank	SS PzKpfw VI E	17	5	35	4	3	3	192	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	0	-1	0
 SdKfz 250/1 MG42	Lt Halftrack	SdKfz 250/1 (MG 34/42)	18	1	37	4	3	0	151	0	10	46	46	46	46	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	12	-1	0
 Pzgrenadiertrupp	Res Mech Inf	Panzergrenadiertrupp	19	5	7	4	2	0	125	0	1	48	25	5	58	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
-SS Panther VG	Medium Tank	SS PzKfw VG	20	5	34	4	4	3	243	0	12	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	76	-1	0
+SS Panther VG	Medium Tank	SS PzKfw VG	20	5	34	4	3	3	243	0	12	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	76	-1	0
 Scharfschutze	Sniper	Scharfschutze (Gewehr 43)	21	1	4	4	4	0	118	0	0	51	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	0
-Aufklarer	Recon Infantry	Aufklarer	22	1	6	4	4	0	119	0	2	48	10	63	22	25	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
+Aufklarer	Recon Infantry	Aufklarer	22	1	6	4	3	0	119	0	2	48	10	63	22	25	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
 Grenadiertrupp	Reserve Infantry	Grenadiertrupp	23	1	7	3	2	0	125	0	1	48	5	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	129	0
 SdKfz 250/1 sMG42	Scout Car	SdKfz 250/1 (sMG)	24	1	37	4	3	0	151	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	97	-1	0
 SdKfz 250/8 7.5cm	Inf Gun Car	SdKfz 250/8 (7.5cm IG)	25	1	23	4	3	0	153	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	25	-1	0
@@ -35,14 +35,14 @@ SdKfz 251/16 Flamm	Halftrack Flame	SdKfz 251/16 (Flammen)	32	1	23	4	3	0	150	0	10
 Grenadiere	Infantry	Grenadiere	33	1	7	4	3	0	121	0	1	48	10	5	16	25	77	-1	-1	-1	-1	1	3	0	0	0	0	-1	-1	-1	-1	6	-1	128	0
 15cm sFH13 (Sf)	Assault Gun	auf Geschutzwagen Lorraine Schlepper	34	5	28	4	3	1	190	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	119	-1	0
 Ost Grenadiertrupp	Eastern Inf Team	Ost Grenadiertrupp	35	2	7	2	2	1	264	0	1	42	44	41	-1	-1	-1	-1	-1	-1	-1	3	0	0	-1	-1	-1	-1	-1	-1	-1	3	-1	129	0
-Pak 40 auf 39H(f)	Tank Destroyer	Geschutzwagen 39H(f)	36	1	31	4	4	3	181	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	24	-1	0
-PaK 43/41 8.8cm	Heavy AT Gun	8.8cm PaK 43/41	37	1	21	4	4	0	284	0	16	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	82	129	0
+Pak 40 auf 39H(f)	Tank Destroyer	Geschutzwagen 39H(f)	36	1	31	4	3	3	181	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	24	-1	0
+PaK 43/41 8.8cm	Heavy AT Gun	8.8cm PaK 43/41	37	1	21	4	3	0	284	0	16	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	82	129	0
 SdKfz 251/10 3.7cm	Halftrack AT	SdKfz 251/10 (3.7cm PaK)	38	1	23	4	3	0	149	0	10	83	83	82	82	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	17	-1	0
-Tiger II	Heavy Tank	PzKfw VIB	39	1	35	4	4	3	172	0	13	26	26	26	26	46	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	56	-1	0
-Jagdpanther	Tank Destroyer	Jagdpanther	40	1	31	4	4	3	170	0	12	26	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	18	-1	0
+Tiger II	Heavy Tank	PzKfw VIB	39	1	35	4	3	3	172	0	13	26	26	26	26	46	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	56	-1	0
+Jagdpanther	Tank Destroyer	Jagdpanther	40	1	31	4	3	3	170	0	12	26	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	18	-1	0
 SS Scharfschutze	Sniper	SS Scharfschutze (G 43)	41	1	4	4	4	2	196	0	0	51	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	0
 SS Aufklarer	Aufklarung	SS Aufklarer	42	1	6	4	3	2	197	0	2	48	47	65	22	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	165	0
-SS PaK 40 7.5cm	Medium AT Gun	SS 7.5cm PaK 40	43	1	20	4	4	2	220	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	80	163	0
+SS PaK 40 7.5cm	Medium AT Gun	SS 7.5cm PaK 40	43	1	20	4	3	2	220	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	80	163	0
 SS Pzgrenadiere	Infantry	SS Pzgrenadiere	44	1	7	4	3	2	198	0	3	48	22	58	10	32	58	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	135	0
 SS Granatwrfr 8cm	Medium Mortar	SS 8cm Granatwerfer	45	1	12	4	3	2	205	0	7	13	5	5	5	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	163	0
 SS Panzerschreck	AT Infantry	SS Rktn Pz Buhse	46	1	5	4	3	2	202	0	4	10	9	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	165	0
@@ -53,31 +53,31 @@ Schweres MG42	Hvy Machine Gun	Schweres MG42	50	1	11	4	3	0	131	0	6	48	27	5	5	-1	-
 SS Flammenwerfer	Flamethrower	SS Flammenwerfer	51	1	10	4	3	2	213	0	5	63	31	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	163	0
 Flammenwerfer	Flamethrower	Flammenwerfer	52	1	10	4	3	0	136	0	5	31	31	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	164	0
 PG Zugfuhrer	Platoon Leader	PG Zugfuhrer	53	5	0	4	4	0	116	0	17	48	10	47	16	-1	-1	-1	-1	-1	-1	4	3	0	0	-1	-1	-1	-1	-1	-1	4	-1	53	0
-PzGren Aufklarer	Recon Infantry	PzGren Aufklarer	54	5	6	4	4	0	119	0	2	48	63	10	22	65	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	113	0
-Panzerpioniere	Assault Engineers	Panzerpioniere	55	5	9	4	4	0	135	0	3	48	63	17	23	63	32	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
+PzGren Aufklarer	Recon Infantry	PzGren Aufklarer	54	5	6	4	3	0	119	0	2	48	63	10	22	65	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	113	0
+Panzerpioniere	Assault Engineers	Panzerpioniere	55	5	9	4	3	0	135	0	3	48	63	17	23	63	32	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
 Pzgrenadiere	Mech. Infantry	Panzergrenadiere	56	5	7	4	3	0	124	0	1	48	22	5	16	61	25	77	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
 Panzerschreck	AT Infantry	PG RPzB 	57	5	5	4	3	0	126	0	4	10	9	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	113	0
 Panzergren. (Vet.)	Veteran Infantry	Panzergren. (Vet.)	58	5	7	4	3	0	124	0	1	48	10	17	5	5	5	77	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
 PG leMG 42	Machine Gun	PG leMG 42	59	5	11	4	3	0	130	0	6	48	6	25	-1	-1	-1	-1	-1	-1	-1	1	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	113	0
 PG sMG 42	Hvy Machine Gun	PG sMG 42	60	5	11	4	3	0	131	0	6	48	27	5	25	-1	-1	-1	-1	-1	-1	1	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	113	0
-SS Panzer IVH	Medium Tank	SS PzKfw IVH	61	5	34	4	4	3	241	0	12	26	26	26	46	46	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	69	-1	0
-SS PaK 43 8.8cm	Heavy AT Gun	SS 8.8cm PaK 43	62	1	21	4	4	2	284	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	83	163	0
+SS Panzer IVH	Medium Tank	SS PzKfw IVH	61	5	34	4	3	3	241	0	12	26	26	26	46	46	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	69	-1	0
+SS PaK 43 8.8cm	Heavy AT Gun	SS 8.8cm PaK 43	62	1	21	4	3	2	284	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	83	163	0
 Zugfuhrertrupp	Platoon Leader	Zugfuhrertrupp	63	1	0	4	4	0	117	0	17	48	10	25	37	-1	-1	-1	-1	-1	-1	4	3	0	2	-1	-1	-1	-1	-1	-1	4	-1	63	0
 Panzerjager	AT Infantry	Panzerjager	64	1	5	4	3	0	127	0	4	65	37	71	37	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	166	0
 SS Schweres MG42	Hvy Machine Gun	SS MG42	65	1	11	4	3	2	208	0	6	48	27	47	5	-1	-1	-1	-1	-1	-1	1	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	163	0
-Panther VD	Medium Tank	PzKfw VD	66	1	34	4	4	3	278	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	21	-1	0
-Landesschutzen	Security Infantry	Landesschutzen	67	1	7	3	2	0	125	0	1	57	5	5	5	5	5	73	-1	-1	-1	1	0	0	0	0	0	0	-1	-1	-1	7	-1	129	0
-3.7 cm PaK 35/36	Light AT Gun	3.7 cm PaK 35/36	68	1	19	4	4	0	140	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	77	-1	0
+Panther VD	Medium Tank	PzKfw VD	66	1	34	4	3	3	278	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	21	-1	0
+Landesschutzen	Security Infantry	Landesschutzen	67	1	7	3	1	0	125	0	1	57	5	5	5	5	5	73	-1	-1	-1	1	0	0	0	0	0	0	-1	-1	-1	7	-1	129	0
+3.7 cm PaK 35/36	Light AT Gun	3.7 cm PaK 35/36	68	1	19	4	3	0	140	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	77	-1	0
 Kdo.Wg.SDKfz 251/10	Cmd Halftrack	Kdo.Wg. SdKfz 251/10	69	1	1	4	4	0	149	0	18	83	83	83	82	-1	-1	-1	-1	-1	-1	4	2	2	2	-1	-1	-1	-1	-1	-1	4	17	-1	0
 Befehlspanzer IVH	Tank Leader	Befehlspanzer IVH	70	1	2	4	4	3	167	0	19	46	46	26	26	26	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	70	-1	0
 Befehlspanzer III N	Tank Leader	Befehlspanzer III N	71	1	2	4	4	3	173	0	19	46	46	26	26	26	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	2	-1	0
 Befehlspanzer VA	Tank Leader	Befehlspanzer VA	72	1	2	4	4	3	169	0	19	46	26	46	26	26	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	76	-1	0
-Pz IV F/L24	Medium Tank	PzKfw IV F/L24	73	1	34	4	4	3	276	0	11	46	26	26	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	5	-1	0
-SS Sturmgeschutz	Assault Gun	SS Sturmgeschutz 40G	74	5	31	4	4	2	240	0	12	46	26	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	3	-1	0
+Pz IV F/L24	Medium Tank	PzKfw IV F/L24	73	1	34	4	3	3	276	0	11	46	26	26	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	5	-1	0
+SS Sturmgeschutz	Assault Gun	SS Sturmgeschutz 40G	74	5	31	4	3	2	240	0	12	46	26	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	3	-1	0
 SS Befehlspz VA	Tank Leader	SS Befehlspz VA	75	5	2	4	4	3	244	0	19	46	26	46	26	26	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	74	-1	0
-Panther VG	Medium Tank	PzKfw VG	76	1	34	4	4	3	168	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	55	-1	0
-10.5cm leFH18(Sf)	Assault Gun	Geschutzwagen 39H(f)	77	5	28	4	4	1	277	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	9	-1	0
-PaK 36(r) 7.62cm	Medium AT Gun	7.62cm PaK 36(r)	78	1	19	4	4	0	143	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	36	164	0
+Panther VG	Medium Tank	PzKfw VG	76	1	34	4	3	3	168	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	55	-1	0
+10.5cm leFH18(Sf)	Assault Gun	Geschutzwagen 39H(f)	77	5	28	4	3	1	277	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	9	-1	0
+PaK 36(r) 7.62cm	Medium AT Gun	7.62cm PaK 36(r)	78	1	19	4	3	0	143	0	15	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	36	164	0
 SS SdKfz 250/1 sMG	Lt Halftrack	SS SdKfz 250/1 sMG42	79	1	37	4	3	2	224	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	97	-1	0
 SS SdKfz 250/8	Lt Halftrack Inf Gun	SS SdKfz 250/8 (7.5cm IG)	80	1	24	4	3	2	226	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	25	-1	0
 SS SdKfz 250/7 8cm	Lt Halftrack Mortar	SS SdKfz 250/7 (8cm)	81	1	38	4	3	2	225	0	20	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	26	-1	0
@@ -89,66 +89,66 @@ SS SdKfz 251/16	Halftrack Flame	SS SdKfz 251/16 (Flammen)	86	1	23	4	3	2	233	0	10
 SS SdKfz 251/10	Halftrack AT	SS SdKfz 251/10 (3.7cm PaK)	87	1	23	4	3	2	228	0	10	82	83	83	46	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	17	-1	0
 Ost leMG 120(r)	Machine Gun	Ost leMG 120(r)	88	2	11	2	2	1	266	0	6	73	68	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	129	0
 Leichtes MG 42	Machine Gun	Leichtes MG 42	89	1	11	4	3	0	130	0	6	57	6	58	-1	-1	-1	-1	-1	-1	-1	1	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	164	0
-Marder III 7.5cm	Tank Destroyer	SS Panzerjager 38t	90	5	31	4	4	3	164	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	20	-1	0
+Marder III 7.5cm	Tank Destroyer	SS Panzerjager 38t	90	5	31	4	3	3	164	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	20	-1	0
 SS SdKfz 234/1 2cm	Panzerspahwagen	SS SdKfz 234/1 (2cm PaK)	91	5	24	4	3	3	237	0	9	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	79	-1	0
 Puma 5cm	Panzerspahwagen	SdKfz 234/2 (5cm PaK)	92	1	24	4	3	3	158	0	9	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	16	-1	0
-SS Panther VA	Medium Tank	SS PzKfw VA	93	5	34	4	4	3	280	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	75	-1	0
+SS Panther VA	Medium Tank	SS PzKfw VA	93	5	34	4	3	3	280	0	12	46	26	26	46	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	75	-1	0
 SS Inf Geschutz	Infantry Gun	SS 7.5cm Inf. Geschutz	94	1	14	4	3	2	222	0	14	21	21	21	21	21	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	23	163	0
-SS PaK 38 5cm	Medium AT Gun	SS 5cm PaK 38	95	1	20	4	4	2	219	0	15	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	14	163	0
-SS PaK 43/41 8.8cm	Heavy AT Gun	SS 8.8cm PaK 43/41	96	1	21	4	4	2	143	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	15	163	0
+SS PaK 38 5cm	Medium AT Gun	SS 5cm PaK 38	95	1	20	4	3	2	219	0	15	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	14	163	0
+SS PaK 43/41 8.8cm	Heavy AT Gun	SS 8.8cm PaK 43/41	96	1	21	4	3	2	143	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	15	163	0
 SS Befehlspz VIE	Tiger Tank Leader	SS Befehlspz VIE	97	5	2	4	4	3	191	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	0	-1	0
 Flammpanzer III	Flame Tank	Flammpanzer III 	98	1	34	4	3	3	153	0	12	26	26	26	26	46	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	91	-1	0
 PG Kompanietrupp	Command Team	PG Kompaniechef	99	5	40	4	4	0	116	0	17	48	10	22	17	32	-1	-1	-1	-1	-1	4	3	0	0	0	-1	-1	-1	-1	-1	5	-1	99	0
-SS Jagdpanzer IV	Tank Destroyer	SS Panzerjager IV	100	5	31	4	4	3	239	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	22	-1	0
-PzKpw 35-S 739(f)	Light Tank	Somua S-35	101	1	33	4	4	3	188	0	12	26	26	26	-1	-1	-1	-1	-1	-1	-1	5	2	2	-1	-1	-1	-1	-1	-1	-1	3	10	-1	0
+SS Jagdpanzer IV	Tank Destroyer	SS Panzerjager IV	100	5	31	4	3	3	239	0	12	26	26	26	46	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	22	-1	0
+PzKpw 35-S 739(f)	Light Tank	Somua S-35	101	1	33	4	3	3	188	0	12	26	26	26	-1	-1	-1	-1	-1	-1	-1	5	2	2	-1	-1	-1	-1	-1	-1	-1	3	10	-1	0
 PzGren Spaher	Recon Team	PzGren Spaher	102	5	6	4	3	0	119	0	2	48	10	51	-1	-1	-1	-1	-1	-1	-1	1	0	0	-1	-1	-1	-1	-1	-1	-1	3	-1	166	0
 Panzerabwehr	AT Infantry	Panzerabwehrtrupp	103	1	5	4	3	0	127	0	4	71	65	59	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	164	0
 PG Veteranen	Veteran Infantry	PG Veteranen	104	5	7	4	3	0	123	0	1	48	47	47	51	59	59	58	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
 PG Veteranen	Veteran Infantry	PG Veteranen	105	5	7	4	3	0	123	0	1	48	10	61	32	5	25	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
 Panzerpioniertrupp	Engineer Team	Panzerpioniertrupp	106	5	9	4	3	0	135	0	3	48	23	58	59	-1	-1	-1	-1	-1	-1	1	3	0	0	-1	-1	-1	-1	-1	-1	4	-1	164	1
 Leichtes MG 42	Machine Gun	Leichtes MG 42	107	1	11	4	3	0	130	0	6	48	6	25	-1	-1	-1	-1	-1	-1	-1	1	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	164	0
-Tiger I	Heavy Tank	PzKpfw VI E	108	1	35	4	4	3	171	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	78	-1	0
+Tiger I	Heavy Tank	PzKpfw VI E	108	1	35	4	3	3	171	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	78	-1	0
 Granatwerfer 5cm 	Light Mortar	5cm Granatwerfer	109	1	12	4	3	0	128	0	7	74	5	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	129	0
-PzGren Aufklarer	Recon Infantry	PzGren Aufklarer	110	5	6	4	4	0	186	0	2	48	10	10	17	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	113	0
+PzGren Aufklarer	Recon Infantry	PzGren Aufklarer	110	5	6	4	3	0	186	0	2	48	10	10	17	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	113	0
 Panzerpioniere	Engineers	Panzerpioniere	111	5	9	4	3	0	135	0	3	48	47	23	77	60	59	59	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
 Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	112	5	7	4	3	0	125	0	1	37	5	5	5	58	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	112	0
 Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	113	5	7	4	3	0	125	0	1	65	5	5	37	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
 Panzerpioniere	Assault Engineers	Panzerpioniere	114	5	10	4	3	0	135	0	3	48	47	31	23	64	69	32	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
 SS Pzpioniere	Assault Engineers	SS Pzpioniere	115	1	9	4	3	2	214	0	5	48	29	47	31	10	23	63	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	165	1
 SS Kompanietrupp	Command Team	SS Kompaniechef	116	1	40	4	4	2	193	0	17	48	37	10	17	5	-1	-1	-1	-1	-1	4	2	0	0	0	-1	-1	-1	-1	-1	5	-1	131	0
-Zugfuhrer (Ost)	Platoon Leader	Zugfuhrer (Ost)	117	2	0	3	4	1	263	0	17	42	41	78	70	-1	-1	-1	-1	-1	-1	4	3	0	0	-1	-1	-1	-1	-1	-1	4	-1	117	0
-SS FlaK 36 8.8cm	Heavy AA Gun	SS 8.8cm FlaK 36	118	1	18	4	4	2	217	0	16	21	21	21	21	21	21	21	-1	-1	-1	3	2	2	2	2	2	2	-1	-1	-1	7	88	163	0
+Zugfuhrer (Ost)	Platoon Leader	Zugfuhrer (Ost)	117	2	0	3	3	1	263	0	17	42	41	78	70	-1	-1	-1	-1	-1	-1	4	3	0	0	-1	-1	-1	-1	-1	-1	4	-1	117	0
+SS FlaK 36 8.8cm	Heavy AA Gun	SS 8.8cm FlaK 36	118	1	18	4	3	2	217	0	16	21	21	21	21	21	21	21	-1	-1	-1	3	2	2	2	2	2	2	-1	-1	-1	7	88	163	0
 Pzgrenadiere	Mech. Infantry	Panzergrenadiere	119	5	7	4	3	0	124	0	1	48	10	5	34	5	58	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	113	0
 Ost 8cm Granatwrfr	Medium Mortar	Ost 8cm Granatwrfr	120	2	12	2	2	1	185	0	7	75	41	41	41	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	-1	129	0
 Osttruppen	Eastern Troops	Ost Grenadiere	121	2	7	2	2	1	264	0	1	43	62	41	41	41	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	129	0
 Ost MG 34	Machine Gun	Ost MG 34	122	2	11	2	2	1	266	0	6	67	35	44	-1	-1	-1	-1	-1	-1	-1	1	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	129	0
 Ost Panzerabwehr	AT Infantry	Ost Panzerabwehrtrupp	123	2	5	2	2	1	265	0	4	72	44	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	129	0
-Scharfschutze (Ost)	Sniper	Scharfschutze (Ost)	124	2	4	4	4	1	175	0	0	78	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	0
+Scharfschutze (Ost)	Sniper	Scharfschutze (Ost)	124	2	4	4	3	1	175	0	0	78	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	0
 Kompanietrupp	Command Team	Kompaniechef	125	1	40	4	4	0	116	0	17	48	10	5	16	25	-1	-1	-1	-1	-1	4	3	0	0	0	-1	-1	-1	-1	-1	5	-1	125	0
 Pioniere	Engineers	Pioniere	126	1	9	4	3	0	135	0	3	48	23	22	58	59	60	32	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	164	1
 Grenadiere	Infantry	Grenadiere	127	1	7	4	3	0	121	0	1	48	22	5	5	58	25	-1	-1	-1	-1	1	3	0	0	0	0	-1	-1	-1	-1	6	-1	128	0
-Grenadiere (Ersatz)	Repl Infantry	Grenadiere (Ersatz)	128	1	7	4	3	0	125	0	1	10	76	32	5	10	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	128	0
-Schutzen	AdHoc Infantry	Schutzen	129	1	7	3	3	0	125	0	1	73	67	5	44	5	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	129	0
+Grenadiere (Ersatz)	Repl Infantry	Grenadiere (Ersatz)	128	1	7	4	2	0	125	0	1	10	76	32	5	10	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	128	0
+Schutzen	AdHoc Infantry	Schutzen	129	1	7	3	1	0	125	0	1	73	67	5	44	5	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	129	0
 Aufklarer	Scouts	Spaher	130	1	6	4	3	0	119	0	2	48	10	22	-1	-1	-1	-1	-1	-1	-1	1	0	0	-1	-1	-1	-1	-1	-1	-1	3	-1	166	0
 SS Zugfuhrertrupp	Platoon Leader	SS Zugfuhrertrupp	131	1	0	4	4	2	194	0	17	48	47	37	16	-1	-1	-1	-1	-1	-1	4	2	0	0	-1	-1	-1	-1	-1	-1	4	-1	131	0
 SS PzPioniere	Engineers	SS PzPioniere	132	1	9	4	3	2	214	0	5	48	47	47	64	60	60	61	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	165	1
 SS PzGrenadiere	Infantry	SS PzGrenadiere	133	1	9	4	3	2	198	0	3	48	29	29	23	47	16	32	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	135	0
 SS PzGrenadiere	LMG Infantry	SS PzGrenadiere (LMG)	134	1	8	4	3	2	197	0	1	48	17	10	58	16	61	25	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	135	0
-SS PzGren (Ers.)	Repl Infantry	SS PzGren (Ers.)	135	1	7	4	3	2	201	0	1	48	37	5	5	22	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	135	0
+SS PzGren (Ers.)	Repl Infantry	SS PzGren (Ers.)	135	1	7	4	2	2	201	0	1	48	37	5	5	22	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	135	0
 SS Panzerfaust	AT Infantry	SS Panzerfaust	136	1	5	4	3	2	203	0	4	65	37	37	-1	-1	-1	-1	-1	-1	-1	1	2	2	-1	-1	-1	-1	-1	-1	-1	3	-1	165	0
 SS Befehlspz IVH	Tank Leader	SS Befehlspz IVH	137	5	2	4	4	3	242	0	19	46	46	26	26	26	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	72	-1	0
-PaK 43 8.8cm	Heavy AT Gun	8.8cm PaK 43	138	1	21	4	4	0	284	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	83	129	0
-37mm FlaK 37	Medium AA Gun	37mm FlaK 37	139	1	17	4	4	0	138	0	14	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	85	129	0
-SS 20mm FlaK 38	Light AA Gun	SS 20mm FlaK 38	140	1	17	4	4	2	215	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	84	163	0
-20mm FlaK 38	Light AA Gun	20mm FlaK 38	141	1	17	4	4	0	283	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	89	129	0
+PaK 43 8.8cm	Heavy AT Gun	8.8cm PaK 43	138	1	21	4	3	0	284	0	16	26	26	26	26	26	-1	-1	-1	-1	-1	3	2	2	2	2	-1	-1	-1	-1	-1	5	83	129	0
+37mm FlaK 37	Medium AA Gun	37mm FlaK 37	139	1	17	4	3	0	138	0	14	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	85	129	0
+SS 20mm FlaK 38	Light AA Gun	SS 20mm FlaK 38	140	1	17	4	3	2	215	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	84	163	0
+20mm FlaK 38	Light AA Gun	20mm FlaK 38	141	1	17	4	3	0	283	0	14	21	21	21	-1	-1	-1	-1	-1	-1	-1	3	2	2	-1	-1	-1	-1	-1	-1	-1	3	89	129	0
 SdKfz 250/9 (2cm)	Lt Halftrack	SdKfz 250/9 (2cm)	142	1	23	4	3	0	154	0	10	26	26	46	46	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	94	-1	0
 mSPW S307(f) PaK	Halftrack AT	mSPW S307(f) PaK 40	143	1	30	4	3	0	274	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	100	-1	0
 leSPW U304(f)	Halftrack	leSPW U304(f)	144	1	23	4	3	0	273	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	101	-1	0
 leSPW U304(f) PaK	Halftrack AT	leSPW U304(f) PaK 36	145	1	24	4	3	0	275	0	10	83	83	83	82	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	102	-1	0
-SS Grille Ausf M	Assault Gun	SS 15cm sIG (Sf) Ausf M	146	5	28	4	4	2	281	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	104	-1	0
+SS Grille Ausf M	Assault Gun	SS 15cm sIG (Sf) Ausf M	146	5	28	4	3	2	281	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	104	-1	0
 Aufklarer	Recon Infantry	Aufklarer	147	1	6	4	3	0	119	0	2	48	37	63	22	5	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	166	0
 5cm KwK	Med Fixed AT Gun	5cm Kampfwagenkanone	148	1	19	4	3	0	282	0	14	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	110	129	0
-5cm KwK (Ost)	Med Fixed AT Gun	5cm Kampfwagenkanone (Ost)	149	2	19	4	3	1	174	0	14	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	110	129	0
+5cm KwK (Ost)	Med Fixed AT Gun	5cm Kampfwagenkanone (Ost)	149	2	19	4	2	1	174	0	14	21	21	21	21	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	110	129	0
 SS Kdo. SdKfz 250/10	Cmd Lt Halftrack	SS Kdo. SdKfz 250/10 (3.7cm PaK)	150	1	1	4	4	2	188	0	18	82	83	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	67	-1	0
 SS SdKfz 232 2cm	Panzerspahwagen	SS SdKfz 232 (2cm PaK)	151	5	24	4	3	3	236	0	9	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	7	-1	0
 SS SdKfz 223 (Fu)	Panzerspahwagen	SS SdKfz 223 (MG34)	152	5	1	4	3	3	235	0	9	46	26	-1	-1	-1	-1	-1	-1	-1	-1	5	2	-1	-1	-1	-1	-1	-1	-1	-1	2	111	-1	0
@@ -166,6 +166,6 @@ SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	163	1	7	3	3	2	201	0	2	48	32	5	22	-
 Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	164	1	7	3	3	0	125	0	1	10	76	5	5	5	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
 SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	165	1	7	3	3	2	201	0	2	48	37	22	22	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	165	0
 Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	166	1	7	3	3	0	125	0	1	10	37	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	164	0
-Marder I 7.5cm	Tank Destroyer	7.5cm PaK40/1 auf GW Lorraine Schlepper	167	1	31	4	4	3	189	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	93	-1	0
-Grille Ausf H	Assault Gun	15cm sIG (Sf) Ausf H	168	5	28	4	4	1	270	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	103	-1	0
+Marder I 7.5cm	Tank Destroyer	7.5cm PaK40/1 auf GW Lorraine Schlepper	167	1	31	4	3	3	189	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	93	-1	0
+Grille Ausf H	Assault Gun	15cm sIG (Sf) Ausf H	168	5	28	4	3	1	270	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	103	-1	0
 SS PzGren Spaher	Recon Team	SS PzGren Spaher	169	1	6	4	3	2	261	0	2	48	10	51	10	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	166	0
