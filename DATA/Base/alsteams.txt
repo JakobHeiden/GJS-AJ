@@ -108,8 +108,8 @@ Heavy Recce (Cdn)	Recce Inf (Cdn)	Heavy  Recce (Cdn)	105	4	6	4	3	0	10	0	2	49	2	3
 Sniper Team	Sniper Team	Sniper Team	106	0	4	4	4	0	28	0	0	19	50	-1	-1	-1	-1	-1	-1	-1	-1	1	1	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	-1	0
 AB Sniper Team	AB sniper Team	AB Sniper Team	107	0	4	5	5	2	44	0	0	19	55	-1	-1	-1	-1	-1	-1	-1	-1	1	1	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	-1	0
 Sniper Team (Cdn) 	Sniper Team	Sniper Team (Cdn) 	108	4	4	4	4	0	9	0	0	19	49	-1	-1	-1	-1	-1	-1	-1	-1	1	3	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	-1	0
-PIAT Group	Med Infantry	PIAT Group	109	0	8	4	3	0	40	0	1	49	11	40	40	40	-1	-1	-1	-1	-1	1	2	2	0	0	-1	-1	-1	-1	-1	5	-1	94	0
-PIAT Group (Cdn)	Med Infantry	PIAT Group (Cdn)	110	4	8	4	3	0	10	0	1	49	11	40	40	40	-1	-1	-1	-1	-1	1	2	2	0	0	-1	-1	-1	-1	-1	5	-1	82	0
+PIAT Group	Med Infantry	PIAT Group	109	0	8	4	3	0	40	0	1	49	11	40	11	40	-1	-1	-1	-1	-1	1	2	2	2	2	-1	-1	-1	-1	-1	5	-1	94	0
+PIAT Group (Cdn)	Med Infantry	PIAT Group (Cdn)	110	4	8	4	3	0	10	0	1	49	11	40	11	40	-1	-1	-1	-1	-1	1	2	2	2	2	-1	-1	-1	-1	-1	5	-1	82	0
 Cmd Churchill Mk IV	Mk IV Command	Cmd Churchill Mk IV	111	0	2	4	4	3	106	0	19	45	24	24	24	24	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	41	-1	0
 Cmd Achilles 	Comd M10-17pdr	Cmd M10-17pdr 	112	0	2	4	4	3	0	0	19	45	24	24	24	24	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	47	-1	0
 Cmd M10 RA	Comd M10 RA	Cmd M10 RA	113	0	2	4	4	3	58	0	19	45	24	24	24	24	-1	-1	-1	-1	-1	4	2	2	2	2	-1	-1	-1	-1	-1	5	45	-1	0
