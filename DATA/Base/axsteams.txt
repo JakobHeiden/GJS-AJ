@@ -18,11 +18,11 @@ SS PzGrentrupp	Infantry Team	SS PzGrentrupp	15	1	7	4	3	2	201	0	1	48	22	5	25	-1	-
 SdKfz 232 2cm	Panzerspahwagen	SdKfz 232 (2cm PaK)	16	1	24	4	3	3	156	0	9	26	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	7	-1	0
 SS Tiger I	Heavy Tank	SS PzKpfw VI E	17	5	35	4	3	3	192	0	13	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	0	-1	0
 SdKfz 250/1 MG42	Lt Halftrack	SdKfz 250/1 (MG 34/42)	18	1	37	4	3	0	151	0	10	46	46	46	46	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	12	-1	0
-Pzgrenadiertrupp	Res Mech Inf	Panzergrenadiertrupp	19	5	7	4	2	0	125	0	1	48	25	5	58	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
+Pzgrenadiertrupp	Res Mech Inf	Panzergrenadiertrupp	19	5	7	4	3	0	125	0	1	48	25	5	58	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
 SS Panther VG	Medium Tank	SS PzKfw VG	20	5	34	4	3	3	243	0	12	46	26	46	26	26	-1	-1	-1	-1	-1	5	2	2	2	2	-1	-1	-1	-1	-1	5	76	-1	0
 Scharfschutze	Sniper	Scharfschutze (Gewehr 43)	21	1	4	4	4	0	118	0	0	51	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1	-1	-1	0
 Aufklarer	Recon Infantry	Aufklarer	22	1	6	4	3	0	119	0	2	48	10	63	22	25	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
-Grenadiertrupp	Reserve Infantry	Grenadiertrupp	23	1	7	3	2	0	125	0	1	48	5	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	129	0
+Grenadiertrupp	Reserve Infantry	Grenadiertrupp	23	1	7	3	3	0	125	0	1	48	5	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	129	0
 SdKfz 250/1 sMG42	Scout Car	SdKfz 250/1 (sMG)	24	1	37	4	3	0	151	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	97	-1	0
 SdKfz 250/8 7.5cm	Inf Gun Car	SdKfz 250/8 (7.5cm IG)	25	1	23	4	3	0	153	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	25	-1	0
 SdKfz 250/7 8cm	Mortar Car	SdKfz 250/7 (8cm)	26	1	38	4	3	0	152	0	20	83	83	82	82	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	26	-1	0
@@ -111,8 +111,8 @@ Tiger I	Heavy Tank	PzKpfw VI E	108	1	35	4	3	3	171	0	13	46	26	46	26	26	-1	-1	-1	-
 Granatwerfer 5cm 	Light Mortar	5cm Granatwerfer	109	1	12	4	3	0	128	0	7	74	5	-1	-1	-1	-1	-1	-1	-1	-1	3	2	-1	-1	-1	-1	-1	-1	-1	-1	2	-1	129	0
 PzGren Aufklarer	Recon Infantry	PzGren Aufklarer	110	5	6	4	3	0	186	0	2	48	10	10	17	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	113	0
 Panzerpioniere	Engineers	Panzerpioniere	111	5	9	4	3	0	135	0	3	48	47	23	77	60	59	59	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
-Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	112	5	7	4	3	0	125	0	1	37	5	5	5	58	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	112	0
-Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	113	5	7	4	3	0	125	0	1	65	5	5	37	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
+Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	112	5	7	4	2	0	125	0	1	37	5	5	5	58	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	112	0
+Pzgren (Ersatz)	Repl Infantry	Pzgren (Ersatz)	113	5	7	4	2	0	125	0	1	65	5	5	37	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	113	0
 Panzerpioniere	Assault Engineers	Panzerpioniere	114	5	10	4	3	0	135	0	3	48	47	31	23	64	69	32	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	166	1
 SS Pzpioniere	Assault Engineers	SS Pzpioniere	115	1	9	4	3	2	214	0	5	48	29	47	31	10	23	63	-1	-1	-1	1	3	0	0	0	0	0	-1	-1	-1	7	-1	165	1
 SS Kompanietrupp	Command Team	SS Kompaniechef	116	1	40	4	4	2	193	0	17	48	37	10	17	5	-1	-1	-1	-1	-1	4	2	0	0	0	-1	-1	-1	-1	-1	5	-1	131	0
@@ -162,10 +162,10 @@ Kdo. SdKfz 250/10	Cmd Lt Halftrack	Kdo. SdKfz 250/10 (3.7cm PaK)	159	1	1	4	4	0	1
 mSPW U303(f)	Halftrack	mSPW U303(f)	160	1	23	4	3	0	273	0	10	82	82	83	83	-1	-1	-1	-1	-1	-1	3	2	2	2	-1	-1	-1	-1	-1	-1	4	105	-1	0
 SS Aufklarer	Aufklarung	SS Aufklarer	161	1	6	4	3	2	197	0	2	48	37	10	22	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	165	0
 SS Aufklarer	Aufklarung	SS Aufklarer	162	1	6	4	3	2	197	0	2	48	10	22	22	10	-1	-1	-1	-1	-1	1	0	0	0	0	-1	-1	-1	-1	-1	5	-1	165	0
-SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	163	1	7	3	3	2	201	0	2	48	32	5	22	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	163	0
-Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	164	1	7	3	3	0	125	0	1	10	76	5	5	5	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
-SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	165	1	7	3	3	2	201	0	2	48	37	22	22	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	165	0
-Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	166	1	7	3	3	0	125	0	1	10	37	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	164	0
+SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	163	1	7	3	2	2	201	0	2	48	32	5	22	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	163	0
+Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	164	1	7	3	2	0	125	0	1	10	76	5	5	5	-1	-1	-1	-1	-1	3	0	0	0	0	-1	-1	-1	-1	-1	5	-1	164	0
+SS Ersatz	AdHoc Infantry	SS Ersatz Infanterie	165	1	7	3	2	2	201	0	2	48	37	22	22	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	165	0
+Ersatz Infanterie	Repl Infantry	Ersatz Infanterie	166	1	7	3	2	0	125	0	1	10	37	5	5	-1	-1	-1	-1	-1	-1	3	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	164	0
 Marder I 7.5cm	Tank Destroyer	7.5cm PaK40/1 auf GW Lorraine Schlepper	167	1	31	4	3	3	189	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	93	-1	0
 Grille Ausf H	Assault Gun	15cm sIG (Sf) Ausf H	168	5	28	4	3	1	270	0	11	46	46	26	26	-1	-1	-1	-1	-1	-1	5	2	2	2	-1	-1	-1	-1	-1	-1	4	103	-1	0
 SS PzGren Spaher	Recon Team	SS PzGren Spaher	169	1	6	4	3	2	261	0	2	48	10	51	10	-1	-1	-1	-1	-1	-1	1	0	0	0	-1	-1	-1	-1	-1	-1	4	-1	166	0
