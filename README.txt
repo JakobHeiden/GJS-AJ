@@ -12,3 +12,5 @@ green and ersatz teams.
 - removed the courtyards on Caen that are actually accessible to tanks (courtyard is a terrain type that is open, but inaccessible for tanks, to denote an area that is walled off somehow)
 - added umlauts where appropriate, and some more minor german text fixes
 - moved exit vls in Port-en-Bessin, Le Hamel/Arromanches, Courseulles Sur Mer
+- copied personal flamethrower coding from Radzymin 4.01 (thx Aetius!)
+- renamed Sherman I team to Sherman Hybrid I
