@@ -2,7 +2,7 @@ Based on GJS 11 by GameRat and Steiner
 GJS originally made for CC5 and ported to LSA by Cathartes and others
 
 All changes:
-- reworked experience levels: german security forces have exp 1, osttruppen 2, AB 4, RM 5, all else 3. +1 for snipers, command teams, and veterans. -1 for green and ersatz teams.
+- reworked experience levels: german security forces have exp 1, osttruppen 2, AB 4, RM 5, all else 3. +1 for snipers, command teams, scouts/recce/aufklärer/späher, and veterans. -1 for green and ersatz teams.
 - reworked some of the static BGs such that axis should have a chance to hold one turn on all maps
 - fixed the magny-bayeux road bug
 - made all large hedgerows in Bois du Bavent into small hedgerows
